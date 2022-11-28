@@ -1,0 +1,19 @@
+
+
+html,
+body {
+    height: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+input,
+button{
+    text-align: center;
+}
+
+
+
+
+
